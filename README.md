@@ -1,2 +1,2 @@
 #Satyam Kumar
-#Using various API to show weather location
+Using various API to show weather location
